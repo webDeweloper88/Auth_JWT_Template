@@ -1,13 +1,13 @@
 {
     "singleQuote": true,
     "trailingComma": "none",
-    "tabWidth": 4,
+    "tabWidth": 2,
     "semi": false,
     "jsxSingleQuote": true,
     "arrowParens": "avoid",
     "importOrderSeparation": true,
     "importOrderSpecifiers": true,
-    "importOrederParserPlugins": [
+    "importOrderParserPlugins": [
         "classProperties",
         "typescript",
         "decorators-legacy"
